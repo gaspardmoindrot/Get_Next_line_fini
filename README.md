@@ -1,4 +1,4 @@
-# get_next_line_fini
+# get_next_line
 
 ### Parce que lire une ligne sur un fd, c’est chiant
 
